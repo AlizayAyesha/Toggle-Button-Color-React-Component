@@ -12,14 +12,14 @@ The ToggleButtonColor React component is a simple interactive UI element that al
 Make sure you have npm or yarn installed. Then run:
 
 npm install<br>
-# or<br>
+ **or**<br>
 yarn install<br>
 
 ## Usage
 Start the Development Server
 
 npm start<br>
-# or <br>
+**or** <br>
 yarn start<br>
 
 This will start the development server and open the application in your default browser.
